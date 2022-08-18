@@ -12,7 +12,7 @@
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Redux,Bootstrap**
 - 📫 Reach out to me at: **sushantpagare55@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/177ZNz95pRnnFEgWhgPsdqRbBz6Z_Vcby)
-- 😄 Checkout my Portfolio[Portfolio](https://sushants-portfolio.netlify.app/)
+- 😄 Checkout my Portfolio [Portfolio](https://sushants-portfolio.netlify.app/)
 
 <h3>Connect with me:</h3>
 <div >
