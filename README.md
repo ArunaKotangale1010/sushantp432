@@ -8,8 +8,8 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300px" /></p>
 
 
-- 🌱 I’m currently learning ReactJs
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, MongoDB, Bootstrap**
+- 🌱 I’m currently learning NestJs
+- 💬 Ask me about **HTML, CSS, JavaScript, Typescript, ReactJs, Redux, MongoDB, MySql, nodeJs, Express.Js, NestJs, NextJs, Serverless, Amazon web services, Firebase, DBMS/RDBMS, Shopify CMS, Data structure Algo**
 - 📫 Reach out to me at: **sushantpagare55@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DclK2EHQlvfs77U8PzeW0xdRflW1pnE6/view?usp=sharing)
 - 😄 Checkout my Portfolio [Portfolio](https://sushants-portfolio.netlify.app/)
