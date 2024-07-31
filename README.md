@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning NestJs
 - 💬 Ask me about **HTML, CSS, JavaScript, Typescript, ReactJs, Redux, MongoDB, MySql, nodeJs, Express.Js, NestJs, NextJs, Serverless, Amazon web services, Firebase, DBMS/RDBMS, Shopify CMS, Data structure Algo**
 - 📫 Reach out to me at: **sushantpagare55@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DclK2EHQlvfs77U8PzeW0xdRflW1pnE6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZseXtGgCt_opPHVqt5dhdfA_a_3gzNoe/view?usp=sharing)
 - 😄 Checkout my Portfolio [Portfolio](https://sushants-portfolio.netlify.app/)
 
 <h3>Connect with me:</h3>
